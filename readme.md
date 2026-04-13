@@ -3,6 +3,8 @@
 
 Jest is a delightful JavaScript testing framework with a focus on simplicity. It works with projects using Babel, TypeScript, Node, React, Angular, Vue and more.
 
+![Jest](Jest.png)
+
 ## Features
 
 - **Zero Configuration**: Works out of the box for any JavaScript project
@@ -59,11 +61,16 @@ Run tests:
 ```bash
 npm test # Run all tests
 ```
+
+Run all tests with coverage: 
+Creates coverage on what functions were tested and what was left out. Creates a index.html file to visualize coverage
 ```bash
-npm run testWithCoverage # Run all tests. Creates coverage on what functions were tested and what was left out. Creates a index.html file to visualize coverage
+npm run testWithCoverage
 ```
+Watch on all files:
+Run all tests automatically when we make changes on any file
 ```bash
-npm run testWithWatch # Run all tests automatically when we make changes on any file
+npm run testWithWatch
 ```
 
 ## Documentation
