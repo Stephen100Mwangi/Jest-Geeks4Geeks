@@ -17,7 +17,11 @@ Jest is a delightful JavaScript testing framework with a focus on simplicity. It
 ## Getting started - Initialization
 Initialize a Node project
 ``` bash
-npm init --y
+npm init -y
+```
+OR
+``` bash
+npm init --yes
 ```
 
 ## Installation
