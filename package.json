@@ -1,7 +1,7 @@
 {
   "name": "jest-geek4geeks",
   "version": "1.0.0",
-  "description": "",
+  "description": "Jest is a delightful JavaScript testing framework with a focus on simplicity. It works with projects using Babel, TypeScript, Node, React, Angular, Vue and more.",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -17,5 +17,13 @@
   },
   "dependencies": {
     "json-server": "^1.0.0-beta.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stephen100Mwangi/Jest-Geeks4Geeks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Stephen100Mwangi/Jest-Geeks4Geeks/issues"
+  },
+  "homepage": "https://github.com/Stephen100Mwangi/Jest-Geeks4Geeks#readme"
 }

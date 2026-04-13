@@ -6,5 +6,5 @@ const sumFunction = require("./sum");
 // })
 
 test("Should add two numbers", () => {
-  expect(2 + 3).toBe(5);
+  expect(sumFunction(1, 4)).toBe(5);
 });
