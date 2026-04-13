@@ -1,0 +1,32 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Stephen Wahome",
+      "email": "stephen@example.com",
+      "expertise": "QA Engineering"
+    },
+    {
+      "id": 2,
+      "name": "Grace Wanjiku",
+      "email": "grace@example.com",
+      "expertise": "Automation Testing"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "John Kamau",
+      "email": "john@student.com",
+      "course": "Computer Science",
+      "year": 3
+    },
+    {
+      "id": 2,
+      "name": "Mary Njeri",
+      "email": "mary@student.com",
+      "course": "Software Engineering",
+      "year": 2
+    }
+  ]
+}

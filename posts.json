@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Introduction to Testing",
+      "content": "Testing ensures software quality and reliability.",
+      "authorId": 1,
+      "createdAt": "2026-04-10"
+    },
+    {
+      "id": 2,
+      "title": "Exploratory Testing Techniques",
+      "content": "Exploratory testing helps uncover hidden bugs.",
+      "authorId": 2,
+      "createdAt": "2026-04-11"
+    },
+    {
+      "id": 3,
+      "title": "Automation vs Manual Testing",
+      "content": "Both have strengths depending on the use case.",
+      "authorId": 1,
+      "createdAt": "2026-04-12"
+    }
+  ]
+}
